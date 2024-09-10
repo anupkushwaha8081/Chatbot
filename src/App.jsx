@@ -8,7 +8,7 @@ function App() {
     <>
 
     <div className='bg-black text-3xl  text-white' >
-      anupam 
+      Anup Gandu
     </div>
     </>
   )
